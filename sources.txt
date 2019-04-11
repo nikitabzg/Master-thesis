@@ -1,0 +1,83 @@
+https://imotions.com/blog/what-is-eeg/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3851789/
+
+https://www.ncbi.nlm.nih.gov/pubmed/10209231
+
+Karmos G.-Mehta A. D. Ulbert I. Lakatos, P. and C. E. Schroeder. Entrainment of neuronal oscillations as a mechanism of attentional selection. Science, 320:110–113, 2008.
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8986.2011.01329.x
+
+https://www.ncbi.nlm.nih.gov/pubmed/21629859
+
+ Keil A. Gruber, T. and M. M. Mller. Modulation of induced gamma band responses and phase synchrony in a paired associate learning task in the human eeg. Neuroscience Letters, 316:29–32, 2001.
+
+  Mller M. M. Gruber, T. and A. Keil. Modulation of induced gamma band responses in a perceptual learning task in the human eeg. Cognitive Neuroscience, 14:732–744, 2002.
+  
+   T. Gruber and M. M. Mller. Oscillatory brain activity in the human eeg during indirect and direct memory tasks. Brain Research, 1097:194–204, 2006.
+   
+    Fetz E. E. Shupe L. Lettich E. Aoki, F. and G. A. Ojemann. Increased gammarange activity in human sensorimotor cortex during performance of visuomotor tasks. Clinical Neurophysiology, 110:524–537, 1999.
+
+ Yuval-Greenberg S. Keren, A. S. and L. Y. Deouell. Saccadic spike potentials in gamma-band eeg: characterization, detection and suppression. NeuroImage, 49:2248–2263, 2010.
+ 
+12) https://www.dropbox.com/home/EEG/articles?preview=(2007)+A+review+of+classification+algorithms+for+EEG-based+brain%E2%80%93computer+interfaces.pdf
+
+13) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5424817/
+
+14) https://sebastianraschka.com/Articles/2014_python_lda.html#introduction
+
+15) https://towardsdatascience.com/classification-part-2-linear-discriminant-analysis-ea60c45b9ee5
+
+16) https://web.stanford.edu/class/stats202/content/lec9.pdf
+
+17) https://www.researchgate.net/publication/220656766_A_Differential_Geometric_Approach_to_the_Geometric_Mean_of_Symmetric_Positive-Definite_Matrices
+
+18) http://mathworld.wolfram.com/Torus.html
+
+19) https://www.researchgate.net/figure/Optimization-on-a-manifold-The-tangent-space-T-M-x_fig1_228371900
+
+20)  Marco Congedo Christian Jutten Alexandre Barachant, Stphane Bonnet. Classiﬁcation of covariance matrices using a riemannian-based kernel for bci applications. Neurocomputing, 112:172–178, 2013. hal-00820475.
+
+21)  D. Regan, Human Brain Electrophysiology: Evoked Potentials and Evoked Magnetic Fields in Science and Medicine, Elsevier, New York, NY, USA, 1989.
+
+22) Marco Congedo, Alexandre Barachant & Rajendra Bhatia (2017): Riemannian
+
+geometry for EEG-based brain-computer interfaces; a primer and a review, Brain-Computer
+
+Interfaces
+
+23)  M. Moakher. A diﬀerential geometric approach to the geometric mean of symmetric positive-deﬁnite matrices. Journal on Matrix Analysis and Applications, 26(3):735– 747, 2005.
+
+24)  F. Lotte F. Yger and M. Sugiyama. Averaging covariance matrices for eeg signal classiﬁcation based on the csp: An empirical study. European Signal Processing Conference (EUSIPCO), pages 2721–2725, 2015.
+
+25)  M. Berar Yger and F. Lotte. Riemannian approaches in brain-computer interfaces: A review. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 25(10):1753–1762, 2017.
+
+26) M. Moakher, “A differential geometric approach to the geometric meanof symmetric positive-definite matrices,”SIAM J Mat Anal Appl, vol. 26,no. 3, pp. 735–747, 2005.
+
+27) https://tel.archives-ouvertes.fr/tel-00880483/document
+
+28) A survey of methods used for source localization using EEG signals
+Author links open overlay panelMunsif AliJatoiaNidalKamelaAamir SaeedMalika
+IbrahimaFayebTahaminaBegumc
+
+29)  https://cmontalto.wordpress.com/2013/03/08/what-are-inverse-problems/
+
+30) Loreta
+
+31) sLOReta
+
+32) Subcortical electrophysiological activity is detectable with high-density EEG source imagine, Martin Seeber , Lucia-Manuela Cantonas , Mauritius Hoevels , Thibaut Sesia , Veerle Visser-Vandewalle, Christoph M. Michel
+
+33) https://www.dropbox.com/preview/EEG/articles/Neural%20Networks/Deep%20Learning%20With%20Convolutional%20Neural%20Networks%20for%20EEG%20Decoding%20and%20Visualization.pdf?role=personal
+
+34) https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+35) Leonid Zhukov, David Weinstein, Chris Johnson, Independent Component Analysis for EEG Source Localization, IEEE Eng. Med. Biol. Mag. 19 (2000), 87-96
+
+36) https://www.youtube.com/watch?v=QkO3DzkyMEo&t=771s
+
+37) https://www.researchgate.net/publication/326336345_Review_on_Mathematical_Modelling_of_Electroencephalography_EEG
+
+38) https://sci-hub.tw/https://link.springer.com/chapter/10.1007/978-3-7091-2486-4_3
+
+39) https://www.dropbox.com/preview/EEG/articles/Source%20Localization/swLORETA%20-%20Ernesto%20PhD%20Thesis.pdf?role=personal
